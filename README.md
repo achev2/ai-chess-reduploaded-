@@ -18,9 +18,8 @@ This project was built as a semester-long project using a Raspberry Pi, a camera
 
 ## 🎥 Demo
 
-> *(Add screenshots or a short video clip here)*
+---<img width="1871" height="840" alt="chess32" src="https://github.com/user-attachments/assets/d5ad14cc-cacb-4c81-a468-f94f725a8d0e" />
 
----
 
 ## 🛠️ Tech Stack
 
