@@ -1,4 +1,4 @@
-# ♟️ Chess Vision AI
+# ♟️ ChessGPT
 
 A Raspberry Pi-based computer vision system that detects physical chess board positions using a camera and provides AI-powered move suggestions via the Stockfish chess engine.
 
